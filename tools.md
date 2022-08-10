@@ -2,7 +2,7 @@
 
 ## Everyday
 * [Alfred](https://www.alfredapp.com/)
-* [Meeter](https://www.trymeeter.com/)
+* [Cron](https://cron.com/)
 * [Spectacle](https://www.spectacleapp.com/)
 * [Spotify](https://www.spotify.com/)
 * [1Password](https://1password.com/)
