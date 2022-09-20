@@ -21,6 +21,11 @@
 * [VirtualBox](https://www.virtualbox.org/)
 * [BrowserStack](https://www.browserstack.com/)
 
+## Chatting
+* [Slack](https://slack.com/)
+* [Discord](https://discord.com/)
+* [Signal](https://signal.org/)
+
 ## CLI Utilities
 * [asdf](https://github.com/asdf-vm/asdf)
 * [svgo](https://github.com/svg/svgo)
