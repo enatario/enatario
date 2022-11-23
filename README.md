@@ -6,5 +6,6 @@ I'm Elaina (she/her) and I'm a product designer who codes.
   * For a fuller history, [check out my résumé](./resume.md).
 * 📝 I occasionaly [write](https://www.elainanatario.com/#writing) about design, development, and work processes.
 * 💻 My latest side project is [Monument Palettes](https://github.com/enatario/monument-palettes/).
+* 💓 I'm passionate about working with good humans and making good things for other humans.
 * 🔧 I have a variety of [tools I use](./tools.md) in my everyday work.
 * ✨I love to [take photos](https://www.instagram.com/elainanatario/), binge great TV shows, and play with my daughter.
